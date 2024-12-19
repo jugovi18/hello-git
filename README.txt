@@ -8,4 +8,6 @@ Comandos básicos Git:
 	- git commit --> Establece punto de control que permitirá volver máis tarde. Necerasio escribir un mensaje de explicación 
 	- git push --> Enviar os commits o servidor remoto.
 	- git revert <código comprobación> --> Volver atrás nunha rama
-	
+	- git . --> Añadir todas as modificacions xuntas
+	-git branch --> Facer unha nova ramas
+	- git switch <nombre_rama> --> Cambias a rama que deseas
