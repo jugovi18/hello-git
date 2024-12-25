@@ -12,3 +12,5 @@ Comandos básicos Git:
 	-git branch --> Facer unha nova ramas
 	- git switch <nombre_rama> --> Cambias a rama que deseas
 	-git merge <nombre_rama> --> Traer datos de outra rama a rama actual
+	- git fetch --> Descargar historial modificacions de github
+	- git pull --> Descargas os ficheiros de github
